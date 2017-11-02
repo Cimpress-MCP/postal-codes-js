@@ -1,7 +1,7 @@
 {
   "Description": "IO : BBND 1ZZ",
   "RedundantCharacters": " -",
-  "ValidationRegex": "^BBND1ZZ$",
+  "ValidationRegex": "^BBND ?1ZZ$",
   "TestData": {
     "Valid": [
       "BBND 1ZZ",
