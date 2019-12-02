@@ -1,0 +1,23 @@
+{
+  "Description": "DK",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^(L){0,1}\\d{4}$",
+  "TestData": {
+    "Valid": [
+      "1124",
+      "L1054",
+      "L-1120",
+      "L1120",
+      "L 1125",
+      "L - 1234",
+      "l-1123"
+    ],
+    "Invalid": [
+      "1125L",
+      "L12345",
+      "L123",
+      "123",
+      ""
+    ]
+  }
+}

@@ -408,7 +408,7 @@
     },
     "DK": {
         "countryName": "Denmark",
-        "postalCodeFormat": "4Digits.json",
+        "postalCodeFormat": "DK.json",
         "alpha2": "DK",
         "alpha3": "DNK",
         "numeric3": "208"
@@ -871,7 +871,7 @@
     },
     "LU": {
         "countryName": "Luxembourg",
-        "postalCodeFormat": "4Digits.json",
+        "postalCodeFormat": "LU.json",
         "alpha2": "LU",
         "alpha3": "LUX",
         "numeric3": "442"

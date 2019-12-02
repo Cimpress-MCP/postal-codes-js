@@ -30,7 +30,6 @@
     "CX",
     "CY",
     "CY",
-    "DK",
     "ET",
     "GE",
     "GL",
@@ -40,7 +39,6 @@
     "HU",
     "LI",
     "LR",
-    "LU",
     "MK",
     "MZ",
     "NE",
@@ -174,6 +172,9 @@
   "CA.json": [
     "CA"
   ],
+  "DK.json": [
+    "DK"
+  ],
   "FK.json": [
     "FK"
   ],
@@ -212,6 +213,9 @@
   ],
   "LT.json": [
     "LT"
+  ],
+  "LU.json": [
+    "LU"
   ],
   "LV.json": [
     "LV"

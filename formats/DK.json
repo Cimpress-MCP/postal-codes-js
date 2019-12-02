@@ -1,0 +1,23 @@
+{
+  "Description": "DK",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^(DK){0,1}\\d{4}$",
+  "TestData": {
+    "Valid": [
+      "1124",
+      "DK1054",
+      "DK-1120",
+      "DK1120",
+      "DK 1125",
+      "DK - 1234",
+      "dk-1123"
+    ],
+    "Invalid": [
+      "1125DK",
+      "DK12345",
+      "DK123",
+      "123",
+      ""
+    ]
+  }
+}
