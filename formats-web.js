@@ -1,6 +1,6 @@
 'use strict';
 
-const formats = {} ;
+const formats = {};
 
 formats["10Digits.json"] = require("./formats/10Digits.json");
 formats["2Digits.json"] = require("./formats/2Digits.json");
@@ -20,6 +20,7 @@ formats["BH.json"] = require("./formats/BH.json");
 formats["BL.json"] = require("./formats/BL.json");
 formats["BN.json"] = require("./formats/BN.json");
 formats["CA.json"] = require("./formats/CA.json");
+formats["DK.json"] = require("./formats/DK.json");
 formats["FK.json"] = require("./formats/FK.json");
 formats["GB.json"] = require("./formats/GB.json");
 formats["GF.json"] = require("./formats/GF.json");
@@ -33,6 +34,7 @@ formats["KY.json"] = require("./formats/KY.json");
 formats["LB.json"] = require("./formats/LB.json");
 formats["LC.json"] = require("./formats/LC.json");
 formats["LT.json"] = require("./formats/LT.json");
+formats["LU.json"] = require("./formats/LU.json");
 formats["LV.json"] = require("./formats/LV.json");
 formats["MC.json"] = require("./formats/MC.json");
 formats["MD.json"] = require("./formats/MD.json");
@@ -63,6 +65,6 @@ formats["WF.json"] = require("./formats/WF.json");
 formats["WS.json"] = require("./formats/WS.json");
 
 
-module.exports = function getFormat(postalCodeFormat){
+module.exports = function getFormat(postalCodeFormat) {
     return formats[postalCodeFormat];
 };

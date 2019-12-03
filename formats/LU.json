@@ -1,5 +1,5 @@
 {
-  "Description": "DK",
+  "Description": "LU",
   "RedundantCharacters": " -",
   "ValidationRegex": "^(L){0,1}\\d{4}$",
   "TestData": {
