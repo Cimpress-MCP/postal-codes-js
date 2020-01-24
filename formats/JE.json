@@ -1,0 +1,18 @@
+{
+  "Description": "JE",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^JE[0-9]{2,3}[A-Za-z]{2}$",
+  "TestData": {
+    "Valid": [
+      "JE1 1AA",
+      "JE111AA"
+    ],
+    "Invalid": [
+      "CW3 9SS",
+      "SE5 0EG",
+      "SE50EG",
+      "WC2H 7LTa",
+      "WC2H"
+    ]
+  }
+}

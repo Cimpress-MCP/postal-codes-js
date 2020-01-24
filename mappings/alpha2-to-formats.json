@@ -180,13 +180,13 @@
     "FK"
   ],
   "GB.json": [
-    "GB",
-    "GG",
-    "IM",
-    "JE"
+    "GB"
   ],
   "GF.json": [
     "GF"
+  ],
+  "GG.json": [
+    "GG"
   ],
   "GI.json": [
     "GI"
@@ -200,8 +200,14 @@
   "HN.json": [
     "HN"
   ],
+  "IM.json": [
+    "IM"
+  ],
   "IO.json": [
     "IO"
+  ],
+  "JE.json": [
+    "JE"
   ],
   "KY.json": [
     "KY"

@@ -615,7 +615,7 @@
     },
     "GG": {
         "countryName": "Guernsey",
-        "postalCodeFormat": "GB.json",
+        "postalCodeFormat": "GG.json",
         "alpha2": "GG",
         "alpha3": "GGY",
         "numeric3": "831"
@@ -726,7 +726,7 @@
     },
     "IM": {
         "countryName": "Isle of Man",
-        "postalCodeFormat": "GB.json",
+        "postalCodeFormat": "IM.json",
         "alpha2": "IM",
         "alpha3": "IMN",
         "numeric3": "833"
@@ -761,7 +761,7 @@
     },
     "JE": {
         "countryName": "Jersey",
-        "postalCodeFormat": "GB.json",
+        "postalCodeFormat": "JE.json",
         "alpha2": "JE",
         "alpha3": "JEY",
         "numeric3": "832"

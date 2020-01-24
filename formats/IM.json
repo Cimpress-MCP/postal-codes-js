@@ -1,0 +1,18 @@
+{
+  "Description": "IM",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^IM[0-9]{2,3}[A-Za-z]{2}$",
+  "TestData": {
+    "Valid": [
+      "IM1 1AA",
+      "IM111AA"
+    ],
+    "Invalid": [
+      "CW3 9SS",
+      "SE5 0EG",
+      "SE50EG",
+      "WC2H 7LTa",
+      "WC2H"
+    ]
+  }
+}
