@@ -1623,7 +1623,7 @@
     },
     "VNM": {
         "countryName": "Viet Nam",
-        "postalCodeFormat": "6Digits.json",
+        "postalCodeFormat": "5Digits.json",
         "alpha2": "VN",
         "alpha3": "VNM",
         "numeric3": "704"
