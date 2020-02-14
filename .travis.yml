@@ -13,6 +13,7 @@ script:
 after_script: cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
 deploy:
   provider: npm
+  edge: true
   skip_cleanup: true
   email: PostalCodesJS@cimpress.com
   api_key:
