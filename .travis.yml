@@ -1,22 +1,25 @@
 language: node_js
+os:
+  - 'linux'
 node_js:
-- '10'
-- '8'
-- '6'
-- '5'
-- '4'
+  - '12'
+  - '10'
+  - '8'
+  - '6'
+  - '5'
+  - '4'
 install:
-- npm install
+  - npm install
 script:
-- npm run test
-- npm run coverage
+  - npm run test
+  - npm run coverage
 after_script: cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
 deploy:
   provider: npm
   edge: true
-  skip_cleanup: true
+  cleanup: true
   email: PostalCodesJS@cimpress.com
-  api_key:
+  api_token:
     secure: hsk1HEi5vlvhCTA8/jAOK/cFb5Uper2rLBlPodQO/kZ8nivYJ2hY/G5WHuYadAAkH32pbwUSO+YX8DveyoMx88kbgWvHqeUzlCeAZwHQ1ozhmGrnrUMTZhwndcyUIIqEI6Vp9yedzzJ+5wG4WgmSR62IIvlKBqXQgWEE57J5GvpQmsfOH2YoBL2rsYFW1SoJbVnHy6+Kg4DkIUGaPETMq7kHk+n+eBMmTi+ln9TWeYOQPHlGxXNzfBPfdQZgIJbuWtZ51ngTOw1a0tIdR+lMUgFtrwhh9IIrZ1eHTEJvFDabyN5qHkBn2wuurZsfTF7J952N58HL81PcE4Lyw7xeRK2DzsTclHs6JHLc96+S0SFBQuVecERnv63zxD1sWeV7Z6LrFdXO1kg/swfHw4kv9tKJ1Uvf1L0NVedm6LXPN7e6P3DsaeK/KU4iQjzLp9BcQvbyDbmZHyTp8Kt4BQmM3w47RJfm6WJy1ks4lT8qepr8I/IDA5MicvixoxqDTrQeInJHzIouObEHc+Xt9hprf+6KF87odVzxZxXpZz0Jk0dktPJnizhQ5HqyBmGswRsC4aCpUw407GXNVo8wAP0z8XWSdfuq8C7E2C0gIB6atkDGhccnQmAd0TgGWp+YUeiPvnJ25co5TOPon3R7Skj1QqfQOhKIKzFH2VcHAaMXA2k=
   on:
     branch: master
