@@ -1,6 +1,6 @@
 {
   "name": "postal-codes-js",
-  "version": "2.2.5",
+  "version": "2.3.0",
   "description": "Postal Codes",
   "main": "postal-codes.js",
   "scripts": {
