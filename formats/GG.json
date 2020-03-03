@@ -1,14 +1,15 @@
 {
   "Description": "GG",
   "RedundantCharacters": " -",
-  "ValidationRegex": "^GG[0-9]{2,3}[A-Za-z]{2}$",
+  "ValidationRegex": "^GY[0-9]{2,3}[A-Za-z]{2}$",
   "TestData": {
     "Valid": [
-      "GG1 1AA",
-      "GG111AA"
+      "GY1 1AA",
+      "GY111AA"
     ],
     "Invalid": [
       "CW3 9SS",
+      "GG1 1AA",
       "SE5 0EG",
       "SE50EG",
       "WC2H 7LTa",
