@@ -1,13 +1,14 @@
 {
   "Description": "PL : 99-999",
-  "RedundantCharacters": " -",
-  "ValidationRegex": "^[0-9]{5}$",
+  "RedundantCharacters": " ",
+  "ValidationRegex": "^[0-9]{2}-[0-9]{3}$",
   "TestData": {
     "Valid": [
-      "44100",
+      "44-100 ",
       "44-100"
     ],
     "Invalid": [
+      "44100",
       "44f00",
       "e4410",
       "44-100d",
