@@ -1893,24 +1893,24 @@ module.exports = {
 /***/ (function(module, exports) {
 
 module.exports = {
-	"Description": "PT : NNNN[ NNN]",
-	"RedundantCharacters": " -",
-	"ValidationRegex": "^([0-9]{4}|[0-9]{7})$",
-	"TestData": {
-		"Valid": [
-			"1255",
-			"1234567",
-			"1234-123",
-			"1234 123"
-		],
-		"Invalid": [
-			"x1231s",
-			"1231sd",
-			"1010101010",
-			"1234 12"
-		]
-	}
-};
+  "Description": "PT : NNNN[ NNN]",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^([0-9]{4}-[0-9]{3})$",
+  "TestData": {
+    "Valid": [
+      "1234-123"
+    ],
+    "Invalid": [
+      "1255",
+      "1234567",
+      "1234 123",
+      "x1231s",
+      "1231sd",
+      "1010101010",
+      "1234 12"
+    ]
+  }
+}
 
 /***/ }),
 /* 46 */
@@ -6507,7 +6507,7 @@ module.exports = {
 
 // Only Node.JS has a process variable that is of [[Class]] process
 try {
- module.exports = Object.prototype.toString.call(global.process) === '[object process]' 
+ module.exports = Object.prototype.toString.call(global.process) === '[object process]'
 } catch(e) {}
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(64)))

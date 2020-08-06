@@ -1,15 +1,15 @@
 {
-  "Description": "PT : NNNN[ NNN]",
-  "RedundantCharacters": " -",
-  "ValidationRegex": "^([0-9]{4}|[0-9]{7})$",
+  "Description": "PT : NNNN-NNN",
+  "RedundantCharacters": " ",
+  "ValidationRegex": "^[0-9]{4}-[0-9]{3}$",
   "TestData": {
     "Valid": [
-      "1255",
-      "1234567",
-      "1234-123",
-      "1234 123"
+      "1234-123"
     ],
     "Invalid": [
+      "1255",
+      "1234567",
+      "1234 123",
       "x1231s",
       "1231sd",
       "1010101010",
