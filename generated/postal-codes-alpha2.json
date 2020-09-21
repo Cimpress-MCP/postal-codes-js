@@ -1630,7 +1630,7 @@
     },
     "VN": {
         "countryName": "Viet Nam",
-        "postalCodeFormat": "5Digits.json",
+        "postalCodeFormat": "6Digits.json",
         "alpha2": "VN",
         "alpha3": "VNM",
         "numeric3": "704"
