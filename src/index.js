@@ -8,11 +8,20 @@ const lookup = require('../data/lookup.json');
  * @return {boolean}
  */
 module.exports.validate = function (countryCode, postalCode) {
+  if (!countryCode) {
+    throw new Error('Missing country code.');
+  }
+
+  if (!postalCode) {
+    throw new Error('Missing postal code.');
+  }
+
+
   const key = countryCode.trim().toUpperCase();
   const index = lookup[key];
 
   if (index === undefined) {
-    throw new Error(`No data for [${countryCode}]`);
+    throw new Error(`No data for [${countryCode}].`);
   }
 
   const country = countries[index];
