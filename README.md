@@ -7,17 +7,17 @@ Provides javascript postal code validation for [all  countries](https://en.wikip
 
 
 ### Validation rules
-1. Characters " " (space) and "-" (dash) are removed from the input string.
-2. Input is case insensitive.
-3. Supports both [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) and [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) country codes.
-4. Validates optional n-digit extention seperated by a space or hyphen.
+1. Characters " " (space) and "-" (dash) are removed from the input string, if the postal code format allowes it.
+2. Input is case-insensitive.
+3. Supports ISO 3166-1 [alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), [alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) and [numeric-3](https://en.wikipedia.org/wiki/ISO_3166-1_numeric) country codes.
+4. Validates optional n-digit extension separated by a space or hyphen.
 
 ### Usage
 ```
 const postalCodes = require('postal-codes-js');
-const countryCode = 'CH'; // ISO 3166-1 alpha-2 or alpha-3 country code as string.
+const countryCode = 'CH'; // ISO 3166-1 alpha-2, alpha-3 or numeric-3 country code as string.
 const postalCode = '8008'; // Postal code as string or number.
-postalCodes.validate(countryCode, postalCode); // Returns 'true' if valid, error message as string otherwise.
+postalCodes.validate(countryCode, postalCode); // Returns true if valid, false otherwise.
 
 // All the calls below returns true
 postalCodes.validate('bg', '1003');
@@ -32,15 +32,19 @@ postalCodes.validate('TUR', '33150');
 postalCodes.validate('us', '22313');
 postalCodes.validate('USA', '91746-2302');
 
-// All the calls below return a string
+// All the calls below return false
 postalCodes.validate('UK', 'EC1A 1BB');
- > Unknown alpha2/alpha3 country code: UK
+ > false
 
 postalCodes.validate('PL', '9999');
- > Postal code 9999 is not valid for country PL
+ > false
 
+// Invalid input throws an error.
 postalCodes.validate('CH');
- > Missing postal code.
+ > Uncaught Error: Missing postal code.
+
+postalCodes.validate('nope', '1234');
+ > Uncaught Error: No data for [nope].
 ```
 
 ### Testing with mocha
