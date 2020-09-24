@@ -16,10 +16,6 @@
     "url": "https://github.com/Cimpress-MCP/postal-codes-js/issues"
   },
   "homepage": "https://github.com/Cimpress-MCP/postal-codes-js#readme",
-  "dependencies": {
-    "detect-node": "^2.0.4",
-    "path": "^0.12.7"
-  },
   "devDependencies": {
     "chai": "^4.2.0",
     "coveralls": "^3.0.11",

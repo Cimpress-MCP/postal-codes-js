@@ -11,4 +11,4 @@
 export function validate(
   countryCode: string,
   postalCode: string | number
-): boolean | string;
+): boolean;

@@ -1,0 +1,258 @@
+{
+  "10Digits": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{10}$"
+  },
+  "2Digits": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{2}$"
+  },
+  "3Digits": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{3}$"
+  },
+  "4Digits": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{4}$"
+  },
+  "5Digits": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{5}$"
+  },
+  "6Digits": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{6}$"
+  },
+  "7Digits": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{7}$"
+  },
+  "8Digits": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{8}$"
+  },
+  "AD": {
+    "redundantCharacters": " -",
+    "validationRegex": "^AD[0-9]{3}$"
+  },
+  "AI": {
+    "redundantCharacters": " -",
+    "validationRegex": "^AI2640$"
+  },
+  "AQ": {
+    "redundantCharacters": " -",
+    "validationRegex": "^BIQQ1ZZ$"
+  },
+  "AX": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(AX)?[0-9]{5}$"
+  },
+  "AZ": {
+    "redundantCharacters": " -",
+    "validationRegex": "^AZ[0-9]{4}$"
+  },
+  "BB": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(BB)?[0-9]{5}$"
+  },
+  "BH": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{3,4}$"
+  },
+  "BL": {
+    "redundantCharacters": " -",
+    "validationRegex": "^97133$"
+  },
+  "BN": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[a-zA-Z]{2}[0-9]{4}$"
+  },
+  "CA": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z][\\s\\-]?\\d[ABCEGHJ-NPRSTV-Z]\\d$"
+  },
+  "DK": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(DK){0,1}\\d{4}$"
+  },
+  "FK": {
+    "redundantCharacters": " -",
+    "validationRegex": "^FIQQ1ZZ$"
+  },
+  "GB": {
+    "redundantCharacters": " -",
+    "validationRegex": "((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([AZa-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9]?[A-Za-z]))))[0-9][A-Za-z]{2})|GIR0AA"
+  },
+  "GF": {
+    "redundantCharacters": " -",
+    "validationRegex": "^973[0-9]{2}$"
+  },
+  "GG": {
+    "redundantCharacters": " -",
+    "validationRegex": "^GY[0-9]{2,3}[A-Za-z]{2}$"
+  },
+  "GI": {
+    "redundantCharacters": " -",
+    "validationRegex": "^GX111AA$"
+  },
+  "GP": {
+    "redundantCharacters": " -",
+    "validationRegex": "^971[0-9]{2}$"
+  },
+  "GS": {
+    "redundantCharacters": " -",
+    "validationRegex": "^SIQQ1ZZ$"
+  },
+  "HN": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(HN)?[0-9]{5}$"
+  },
+  "IE": {
+    "redundantCharacters": "",
+    "validationRegex": "^[AaC-Fc-fHhKkNnPpRrTtV-Yv-y]\\d[0-9Ww][ -]?[0-9AaC-Fc-fHhKkNnPpRrTtV-Yv-y]{4}$"
+  },
+  "IM": {
+    "redundantCharacters": " -",
+    "validationRegex": "^IM[0-9]{2,3}[A-Za-z]{2}$"
+  },
+  "IO": {
+    "redundantCharacters": " -",
+    "validationRegex": "^BBND1ZZ$"
+  },
+  "JE": {
+    "redundantCharacters": " -",
+    "validationRegex": "^JE[0-9]{2,3}[A-Za-z]{2}$"
+  },
+  "KY": {
+    "redundantCharacters": " -",
+    "validationRegex": "^KY[0-9]{5}$"
+  },
+  "LB": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{4}(?:[0-9]{4})?$"
+  },
+  "LC": {
+    "redundantCharacters": " -",
+    "validationRegex": "^LC[0-9]{5}$"
+  },
+  "LT": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(LT)?[0-9]{5}$"
+  },
+  "LU": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(L){0,1}\\d{4}$"
+  },
+  "LV": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(LV)?[0-9]{4}$"
+  },
+  "MC": {
+    "redundantCharacters": " -",
+    "validationRegex": "^980[0-9]{2}$"
+  },
+  "MD": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(MD)?[0-9]{4}$"
+  },
+  "MF": {
+    "redundantCharacters": " -",
+    "validationRegex": "^97150$"
+  },
+  "MS": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(MSR)?[0-9]{4}$"
+  },
+  "MT": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[A-Z]{3}[0-9]{4}$"
+  },
+  "NC": {
+    "redundantCharacters": " -",
+    "validationRegex": "^988[0-9]{2}$"
+  },
+  "NL": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[1-9][0-9]{3}(?!SA|SD|SS)[A-Z]{2}$"
+  },
+  "PF": {
+    "redundantCharacters": " -",
+    "validationRegex": "^987[0-9]{2}$"
+  },
+  "PL": {
+    "redundantCharacters": " ",
+    "validationRegex": "^[0-9]{2}-[0-9]{3}$"
+  },
+  "PM": {
+    "redundantCharacters": " -",
+    "validationRegex": "^97500$"
+  },
+  "PN": {
+    "redundantCharacters": " -",
+    "validationRegex": "^PCRN1ZZ$"
+  },
+  "PT": {
+    "redundantCharacters": " ",
+    "validationRegex": "^[0-9]{4}-[0-9]{3}$"
+  },
+  "RE": {
+    "redundantCharacters": " -",
+    "validationRegex": "^974[0-9]{2}$"
+  },
+  "RU": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{3}([0-9]{3})?$"
+  },
+  "SH": {
+    "redundantCharacters": " -",
+    "validationRegex": "^STHL1ZZ$"
+  },
+  "SM": {
+    "redundantCharacters": " -",
+    "validationRegex": "^4789[0-9]{1}$"
+  },
+  "SO": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[a-zA-Z]{2}[0-9]{5}$"
+  },
+  "SZ": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[a-zA-Z]{1}[0-9]{3}$"
+  },
+  "TC": {
+    "redundantCharacters": " -",
+    "validationRegex": "^TKCA1ZZ$"
+  },
+  "TW": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{3}([0-9]{2})?$"
+  },
+  "US": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{5}([0-9]{4})?$"
+  },
+  "VA": {
+    "redundantCharacters": " -",
+    "validationRegex": "^00120$"
+  },
+  "VC": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(VC)?[0-9]{4}$"
+  },
+  "VE": {
+    "redundantCharacters": " -",
+    "validationRegex": "^[0-9]{4}[a-zA-Z]?$"
+  },
+  "VG": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(VG)?[0-9]{4}$"
+  },
+  "WF": {
+    "redundantCharacters": " -",
+    "validationRegex": "^986[0-9]{2}$"
+  },
+  "WS": {
+    "redundantCharacters": " -",
+    "validationRegex": "^(WS)?[0-9]{4}$"
+  }
+}
