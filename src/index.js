@@ -33,7 +33,7 @@ module.exports.validate = function (countryCode, postalCode) {
 
   const format = formats[country.postalCodeFormat];
   const validationRegex = new RegExp(format.validationRegex, 'i');
-  const redundantChars = new RegExp(`[${formats}]`, 'g');
+  const redundantChars = new RegExp(`[${format.redundantCharacters}]`, 'g');
   const preparedPostalCode = postalCode.toString().trim().replace(redundantChars, '');
 
   return validationRegex.test(preparedPostalCode);
