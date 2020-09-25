@@ -37,5 +37,3 @@ module.exports.validate = function (countryCode, postalCode) {
 
   return validationRegex.test(preparedPostalCode);
 }
-
-module.exports.lookup = lookup;
