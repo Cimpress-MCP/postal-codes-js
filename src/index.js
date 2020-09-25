@@ -4,7 +4,7 @@ const lookup = require('../data/lookup.json');
 
 /**
  * @param {string|number} countryCode
- * @param {string} postalCode
+ * @param {string|number} postalCode
  * @return {boolean}
  */
 module.exports.validate = function (countryCode, postalCode) {
@@ -16,8 +16,7 @@ module.exports.validate = function (countryCode, postalCode) {
     throw new Error('Missing postal code.');
   }
 
-
-  const key = countryCode.trim().toUpperCase();
+  const key = countryCode.toString().trim().toUpperCase();
   const index = lookup[key];
 
   if (index === undefined) {
