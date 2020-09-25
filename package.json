@@ -5,7 +5,8 @@
   "main": "postal-codes.js",
   "scripts": {
     "coverage": "nyc --reporter lcovonly mocha ",
-    "test": "mocha test"
+    "test": "mocha test",
+    "build:lookup": "node build/make-lookup.js"
   },
   "repository": {
     "type": "git",

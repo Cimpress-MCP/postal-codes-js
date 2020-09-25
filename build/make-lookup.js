@@ -11,5 +11,7 @@ Object
     lookup[numeric3] = index;
   });
 
-
-fs.writeFileSync('../data/lookup.json', JSON.stringify(lookup, null, 2));
+fs.writeFileSync(
+  `${__dirname}/../data/lookup.json`,
+  JSON.stringify(lookup, null, 2)
+);
