@@ -22,7 +22,7 @@ describe('Postal codes validation: ', () => {
     });
 
     data.invalid.forEach(function (invalidPostalCode) {
-      it(country.alpha2 + ' / ' + invalidPostalCode + ' is valid', () => {
+      it(country.alpha2 + ' / ' + invalidPostalCode + ' is invalid', () => {
         expect(postalCodes.validate(country.alpha2, invalidPostalCode)).to.be.false;
       })
     });

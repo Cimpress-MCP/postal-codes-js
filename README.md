@@ -54,5 +54,7 @@ postalCodes.validate('nope', '1234');
 ## Contribution
 Contributions are more than welcome, just fork the repo and create a pull-request ;)
 
+For information about the adding or changing countries, see [data.md](data.md)
+
 ## Contact
 PostalCodesJS@cimpress.com
