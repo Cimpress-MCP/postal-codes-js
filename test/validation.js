@@ -8,6 +8,9 @@ describe('Postal codes validation: ', function () {
 
   Object.values(countries).forEach(function (country) {
     if (country.postalCodeFormat === false) {
+      it(country.alpha2 + ' is valid', function () {
+        expect(postalCodes.validate(country.alpha2, 'abc')).to.be.true;
+      });
       return;
     }
 
