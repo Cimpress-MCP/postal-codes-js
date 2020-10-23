@@ -1,11 +1,12 @@
 {
   "name": "postal-codes-js",
-  "version": "2.5.2",
+  "version": "3.0.0",
   "description": "Postal Codes",
-  "main": "postal-codes.js",
+  "main": "src/index.js",
   "scripts": {
-    "coverage": "istanbul cover _mocha -- -R spec",
-    "test": "mocha test"
+    "coverage": "nyc --reporter lcovonly mocha ",
+    "test": "mocha test",
+    "build:lookup": "node build/make-lookup.js"
   },
   "repository": {
     "type": "git",
@@ -16,15 +17,11 @@
     "url": "https://github.com/Cimpress-MCP/postal-codes-js/issues"
   },
   "homepage": "https://github.com/Cimpress-MCP/postal-codes-js#readme",
-  "dependencies": {
-    "detect-node": "^2.0.4",
-    "path": "^0.12.7"
-  },
   "devDependencies": {
     "chai": "^4.2.0",
-    "coveralls": "^3.0.11",
-    "istanbul": "^0.4.5",
-    "mocha": "^5.2.0"
+    "coveralls": "^3.1.0",
+    "mocha": "^8.1.3",
+    "nyc": "^15.1.0"
   },
   "directories": {
     "test": "test"
@@ -36,5 +33,6 @@
     "postcode",
     "js"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {}
 }

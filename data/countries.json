@@ -1,0 +1,1490 @@
+[
+  {
+    "alpha2": "AD",
+    "alpha3": "AND",
+    "numeric3": "020",
+    "postalCodeFormat": "AD"
+  },
+  {
+    "alpha2": "AE",
+    "alpha3": "ARE",
+    "numeric3": "784",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "AF",
+    "alpha3": "AFG",
+    "numeric3": "004",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "AG",
+    "alpha3": "ATG",
+    "numeric3": "028",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "AI",
+    "alpha3": "AIA",
+    "numeric3": "660",
+    "postalCodeFormat": "AI"
+  },
+  {
+    "alpha2": "AL",
+    "alpha3": "ALB",
+    "numeric3": "008",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "AM",
+    "alpha3": "ARM",
+    "numeric3": "051",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "AN",
+    "alpha3": "ANT",
+    "numeric3": "530",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "AO",
+    "alpha3": "AGO",
+    "numeric3": "024",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "AQ",
+    "alpha3": "ATA",
+    "numeric3": "010",
+    "postalCodeFormat": "AQ"
+  },
+  {
+    "alpha2": "AR",
+    "alpha3": "ARG",
+    "numeric3": "032",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "AS",
+    "alpha3": "ASM",
+    "numeric3": "016",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "AT",
+    "alpha3": "AUT",
+    "numeric3": "040",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "AU",
+    "alpha3": "AUS",
+    "numeric3": "036",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "AW",
+    "alpha3": "ABW",
+    "numeric3": "533",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "AX",
+    "alpha3": "ALA",
+    "numeric3": "248",
+    "postalCodeFormat": "AX"
+  },
+  {
+    "alpha2": "AZ",
+    "alpha3": "AZE",
+    "numeric3": "031",
+    "postalCodeFormat": "AZ"
+  },
+  {
+    "alpha2": "BA",
+    "alpha3": "BIH",
+    "numeric3": "070",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "BB",
+    "alpha3": "BRB",
+    "numeric3": "052",
+    "postalCodeFormat": "BB"
+  },
+  {
+    "alpha2": "BD",
+    "alpha3": "BGD",
+    "numeric3": "050",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "BE",
+    "alpha3": "BEL",
+    "numeric3": "056",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "BF",
+    "alpha3": "BFA",
+    "numeric3": "854",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "BG",
+    "alpha3": "BGR",
+    "numeric3": "100",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "BH",
+    "alpha3": "BHR",
+    "numeric3": "048",
+    "postalCodeFormat": "BH"
+  },
+  {
+    "alpha2": "BI",
+    "alpha3": "BDI",
+    "numeric3": "108",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "BJ",
+    "alpha3": "BEN",
+    "numeric3": "204",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "BL",
+    "alpha3": "BLM",
+    "numeric3": "652",
+    "postalCodeFormat": "BL"
+  },
+  {
+    "alpha2": "BM",
+    "alpha3": "BMU",
+    "numeric3": "060",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "BN",
+    "alpha3": "BRN",
+    "numeric3": "096",
+    "postalCodeFormat": "BN"
+  },
+  {
+    "alpha2": "BO",
+    "alpha3": "BOL",
+    "numeric3": "068",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "BR",
+    "alpha3": "BRA",
+    "numeric3": "076",
+    "postalCodeFormat": "8Digits"
+  },
+  {
+    "alpha2": "BS",
+    "alpha3": "BHS",
+    "numeric3": "044",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "BT",
+    "alpha3": "BTN",
+    "numeric3": "064",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "BV",
+    "alpha3": "BVT",
+    "numeric3": "074",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "BW",
+    "alpha3": "BWA",
+    "numeric3": "072",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "BY",
+    "alpha3": "BLR",
+    "numeric3": "112",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "BZ",
+    "alpha3": "BLZ",
+    "numeric3": "084",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "CA",
+    "alpha3": "CAN",
+    "numeric3": "124",
+    "postalCodeFormat": "CA"
+  },
+  {
+    "alpha2": "CC",
+    "alpha3": "CCK",
+    "numeric3": "166",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "CD",
+    "alpha3": "COD",
+    "numeric3": "180",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "CF",
+    "alpha3": "CAF",
+    "numeric3": "140",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "CG",
+    "alpha3": "COG",
+    "numeric3": "178",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "CH",
+    "alpha3": "CHE",
+    "numeric3": "756",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "CI",
+    "alpha3": "CIV",
+    "numeric3": "384",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "CK",
+    "alpha3": "COK",
+    "numeric3": "184",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "CL",
+    "alpha3": "CHL",
+    "numeric3": "152",
+    "postalCodeFormat": "7Digits"
+  },
+  {
+    "alpha2": "CM",
+    "alpha3": "CMR",
+    "numeric3": "120",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "CN",
+    "alpha3": "CHN",
+    "numeric3": "156",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "CO",
+    "alpha3": "COL",
+    "numeric3": "170",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "CR",
+    "alpha3": "CRI",
+    "numeric3": "188",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "CU",
+    "alpha3": "CUB",
+    "numeric3": "192",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "CV",
+    "alpha3": "CPV",
+    "numeric3": "132",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "CX",
+    "alpha3": "CXR",
+    "numeric3": "162",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "CY",
+    "alpha3": "CYP",
+    "numeric3": "196",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "CZ",
+    "alpha3": "CZE",
+    "numeric3": "203",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "DE",
+    "alpha3": "DEU",
+    "numeric3": "276",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "DJ",
+    "alpha3": "DJI",
+    "numeric3": "262",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "DK",
+    "alpha3": "DNK",
+    "numeric3": "208",
+    "postalCodeFormat": "DK"
+  },
+  {
+    "alpha2": "DM",
+    "alpha3": "DMA",
+    "numeric3": "212",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "DO",
+    "alpha3": "DOM",
+    "numeric3": "214",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "DZ",
+    "alpha3": "DZA",
+    "numeric3": "012",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "EC",
+    "alpha3": "ECU",
+    "numeric3": "218",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "EE",
+    "alpha3": "EST",
+    "numeric3": "233",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "EG",
+    "alpha3": "EGY",
+    "numeric3": "818",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "EH",
+    "alpha3": "ESH",
+    "numeric3": "732",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "ER",
+    "alpha3": "ERI",
+    "numeric3": "232",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "ES",
+    "alpha3": "ESP",
+    "numeric3": "724",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "ET",
+    "alpha3": "ETH",
+    "numeric3": "231",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "FI",
+    "alpha3": "FIN",
+    "numeric3": "246",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "FJ",
+    "alpha3": "FJI",
+    "numeric3": "242",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "FK",
+    "alpha3": "FLK",
+    "numeric3": "238",
+    "postalCodeFormat": "FK"
+  },
+  {
+    "alpha2": "FM",
+    "alpha3": "FSM",
+    "numeric3": "583",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "FO",
+    "alpha3": "FRO",
+    "numeric3": "234",
+    "postalCodeFormat": "3Digits"
+  },
+  {
+    "alpha2": "FR",
+    "alpha3": "FRA",
+    "numeric3": "250",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "GA",
+    "alpha3": "GAB",
+    "numeric3": "266",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "GB",
+    "alpha3": "GBR",
+    "numeric3": "826",
+    "postalCodeFormat": "GB"
+  },
+  {
+    "alpha2": "GD",
+    "alpha3": "GRD",
+    "numeric3": "308",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "GE",
+    "alpha3": "GEO",
+    "numeric3": "268",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "GF",
+    "alpha3": "GUF",
+    "numeric3": "254",
+    "postalCodeFormat": "GF"
+  },
+  {
+    "alpha2": "GG",
+    "alpha3": "GGY",
+    "numeric3": "831",
+    "postalCodeFormat": "GG"
+  },
+  {
+    "alpha2": "GH",
+    "alpha3": "GHA",
+    "numeric3": "288",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "GI",
+    "alpha3": "GIB",
+    "numeric3": "292",
+    "postalCodeFormat": "GI"
+  },
+  {
+    "alpha2": "GL",
+    "alpha3": "GRL",
+    "numeric3": "304",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "GM",
+    "alpha3": "GMB",
+    "numeric3": "270",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "GN",
+    "alpha3": "GIN",
+    "numeric3": "324",
+    "postalCodeFormat": "3Digits"
+  },
+  {
+    "alpha2": "GP",
+    "alpha3": "GLP",
+    "numeric3": "312",
+    "postalCodeFormat": "GP"
+  },
+  {
+    "alpha2": "GQ",
+    "alpha3": "GNQ",
+    "numeric3": "226",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "GR",
+    "alpha3": "GRC",
+    "numeric3": "300",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "GS",
+    "alpha3": "SGS",
+    "numeric3": "239",
+    "postalCodeFormat": "GS"
+  },
+  {
+    "alpha2": "GT",
+    "alpha3": "GTM",
+    "numeric3": "320",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "GU",
+    "alpha3": "GUM",
+    "numeric3": "316",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "GW",
+    "alpha3": "GNB",
+    "numeric3": "624",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "GY",
+    "alpha3": "GUY",
+    "numeric3": "328",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "HK",
+    "alpha3": "HKG",
+    "numeric3": "344",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "HM",
+    "alpha3": "HMD",
+    "numeric3": "334",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "HN",
+    "alpha3": "HND",
+    "numeric3": "340",
+    "postalCodeFormat": "HN"
+  },
+  {
+    "alpha2": "HR",
+    "alpha3": "HRV",
+    "numeric3": "191",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "HT",
+    "alpha3": "HTI",
+    "numeric3": "332",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "HU",
+    "alpha3": "HUN",
+    "numeric3": "348",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "IC",
+    "alpha3": "",
+    "numeric3": "000",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "ID",
+    "alpha3": "IDN",
+    "numeric3": "360",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "IE",
+    "alpha3": "IRL",
+    "numeric3": "372",
+    "postalCodeFormat": "IE"
+  },
+  {
+    "alpha2": "IL",
+    "alpha3": "ISR",
+    "numeric3": "376",
+    "postalCodeFormat": "7Digits"
+  },
+  {
+    "alpha2": "IM",
+    "alpha3": "IMN",
+    "numeric3": "833",
+    "postalCodeFormat": "IM"
+  },
+  {
+    "alpha2": "IN",
+    "alpha3": "IND",
+    "numeric3": "356",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "IO",
+    "alpha3": "IOT",
+    "numeric3": "086",
+    "postalCodeFormat": "IO"
+  },
+  {
+    "alpha2": "IQ",
+    "alpha3": "IRQ",
+    "numeric3": "368",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "IR",
+    "alpha3": "IRN",
+    "numeric3": "364",
+    "postalCodeFormat": "10Digits"
+  },
+  {
+    "alpha2": "IS",
+    "alpha3": "ISL",
+    "numeric3": "352",
+    "postalCodeFormat": "3Digits"
+  },
+  {
+    "alpha2": "IT",
+    "alpha3": "ITA",
+    "numeric3": "380",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "JE",
+    "alpha3": "JEY",
+    "numeric3": "832",
+    "postalCodeFormat": "JE"
+  },
+  {
+    "alpha2": "JM",
+    "alpha3": "JAM",
+    "numeric3": "388",
+    "postalCodeFormat": "2Digits"
+  },
+  {
+    "alpha2": "JO",
+    "alpha3": "JOR",
+    "numeric3": "400",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "JP",
+    "alpha3": "JPN",
+    "numeric3": "392",
+    "postalCodeFormat": "7Digits"
+  },
+  {
+    "alpha2": "KE",
+    "alpha3": "KEN",
+    "numeric3": "404",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "KG",
+    "alpha3": "KGZ",
+    "numeric3": "417",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "KH",
+    "alpha3": "KHM",
+    "numeric3": "116",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "KI",
+    "alpha3": "KIR",
+    "numeric3": "296",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "KM",
+    "alpha3": "COM",
+    "numeric3": "174",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "KN",
+    "alpha3": "KNA",
+    "numeric3": "659",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "KP",
+    "alpha3": "PRK",
+    "numeric3": "408",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "KR",
+    "alpha3": "KOR",
+    "numeric3": "410",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "KW",
+    "alpha3": "KWT",
+    "numeric3": "414",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "KY",
+    "alpha3": "CYM",
+    "numeric3": "136",
+    "postalCodeFormat": "KY"
+  },
+  {
+    "alpha2": "KZ",
+    "alpha3": "KAZ",
+    "numeric3": "398",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "LA",
+    "alpha3": "LAO",
+    "numeric3": "418",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "LB",
+    "alpha3": "LBN",
+    "numeric3": "422",
+    "postalCodeFormat": "LB"
+  },
+  {
+    "alpha2": "LC",
+    "alpha3": "LCA",
+    "numeric3": "662",
+    "postalCodeFormat": "LC"
+  },
+  {
+    "alpha2": "LI",
+    "alpha3": "LIE",
+    "numeric3": "438",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "LK",
+    "alpha3": "LKA",
+    "numeric3": "144",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "LR",
+    "alpha3": "LBR",
+    "numeric3": "430",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "LS",
+    "alpha3": "LSO",
+    "numeric3": "426",
+    "postalCodeFormat": "3Digits"
+  },
+  {
+    "alpha2": "LT",
+    "alpha3": "LTU",
+    "numeric3": "440",
+    "postalCodeFormat": "LT"
+  },
+  {
+    "alpha2": "LU",
+    "alpha3": "LUX",
+    "numeric3": "442",
+    "postalCodeFormat": "LU"
+  },
+  {
+    "alpha2": "LV",
+    "alpha3": "LVA",
+    "numeric3": "428",
+    "postalCodeFormat": "LV"
+  },
+  {
+    "alpha2": "LY",
+    "alpha3": "LBY",
+    "numeric3": "434",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MA",
+    "alpha3": "MAR",
+    "numeric3": "504",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MC",
+    "alpha3": "MCO",
+    "numeric3": "492",
+    "postalCodeFormat": "MC"
+  },
+  {
+    "alpha2": "MD",
+    "alpha3": "MDA",
+    "numeric3": "498",
+    "postalCodeFormat": "MD"
+  },
+  {
+    "alpha2": "ME",
+    "alpha3": "MNE",
+    "numeric3": "499",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MF",
+    "alpha3": "MAF",
+    "numeric3": "663",
+    "postalCodeFormat": "MF"
+  },
+  {
+    "alpha2": "MG",
+    "alpha3": "MDG",
+    "numeric3": "450",
+    "postalCodeFormat": "3Digits"
+  },
+  {
+    "alpha2": "MH",
+    "alpha3": "MHL",
+    "numeric3": "584",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "MK",
+    "alpha3": "MKD",
+    "numeric3": "807",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "ML",
+    "alpha3": "MLI",
+    "numeric3": "466",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "MM",
+    "alpha3": "MMR",
+    "numeric3": "104",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MN",
+    "alpha3": "MNG",
+    "numeric3": "496",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MO",
+    "alpha3": "MAC",
+    "numeric3": "446",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "MP",
+    "alpha3": "MNP",
+    "numeric3": "580",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "MQ",
+    "alpha3": "MTQ",
+    "numeric3": "474",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MR",
+    "alpha3": "MRT",
+    "numeric3": "478",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "MS",
+    "alpha3": "MSR",
+    "numeric3": "500",
+    "postalCodeFormat": "MS"
+  },
+  {
+    "alpha2": "MT",
+    "alpha3": "MLT",
+    "numeric3": "470",
+    "postalCodeFormat": "MT"
+  },
+  {
+    "alpha2": "MU",
+    "alpha3": "MUS",
+    "numeric3": "480",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MV",
+    "alpha3": "MDV",
+    "numeric3": "462",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MW",
+    "alpha3": "MWI",
+    "numeric3": "454",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "MX",
+    "alpha3": "MEX",
+    "numeric3": "484",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MY",
+    "alpha3": "MYS",
+    "numeric3": "458",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "MZ",
+    "alpha3": "MOZ",
+    "numeric3": "508",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "NA",
+    "alpha3": "NAM",
+    "numeric3": "516",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "NC",
+    "alpha3": "NCL",
+    "numeric3": "540",
+    "postalCodeFormat": "NC"
+  },
+  {
+    "alpha2": "NE",
+    "alpha3": "NER",
+    "numeric3": "562",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "NF",
+    "alpha3": "NFK",
+    "numeric3": "574",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "NG",
+    "alpha3": "NGA",
+    "numeric3": "566",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "NI",
+    "alpha3": "NIC",
+    "numeric3": "558",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "NL",
+    "alpha3": "NLD",
+    "numeric3": "528",
+    "postalCodeFormat": "NL"
+  },
+  {
+    "alpha2": "NO",
+    "alpha3": "NOR",
+    "numeric3": "578",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "NP",
+    "alpha3": "NPL",
+    "numeric3": "524",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "NR",
+    "alpha3": "NRU",
+    "numeric3": "520",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "NU",
+    "alpha3": "NIU",
+    "numeric3": "570",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "NZ",
+    "alpha3": "NZL",
+    "numeric3": "554",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "OM",
+    "alpha3": "OMN",
+    "numeric3": "512",
+    "postalCodeFormat": "3Digits"
+  },
+  {
+    "alpha2": "PA",
+    "alpha3": "PAN",
+    "numeric3": "591",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "PE",
+    "alpha3": "PER",
+    "numeric3": "604",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "PF",
+    "alpha3": "PYF",
+    "numeric3": "258",
+    "postalCodeFormat": "PF"
+  },
+  {
+    "alpha2": "PG",
+    "alpha3": "PNG",
+    "numeric3": "598",
+    "postalCodeFormat": "3Digits"
+  },
+  {
+    "alpha2": "PH",
+    "alpha3": "PHL",
+    "numeric3": "608",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "PK",
+    "alpha3": "PAK",
+    "numeric3": "586",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "PL",
+    "alpha3": "POL",
+    "numeric3": "616",
+    "postalCodeFormat": "PL"
+  },
+  {
+    "alpha2": "PM",
+    "alpha3": "SPM",
+    "numeric3": "666",
+    "postalCodeFormat": "PM"
+  },
+  {
+    "alpha2": "PN",
+    "alpha3": "PCN",
+    "numeric3": "612",
+    "postalCodeFormat": "PN"
+  },
+  {
+    "alpha2": "PR",
+    "alpha3": "PRI",
+    "numeric3": "630",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "PS",
+    "alpha3": "PSE",
+    "numeric3": "275",
+    "postalCodeFormat": "3Digits"
+  },
+  {
+    "alpha2": "PT",
+    "alpha3": "PRT",
+    "numeric3": "620",
+    "postalCodeFormat": "PT"
+  },
+  {
+    "alpha2": "PW",
+    "alpha3": "PLW",
+    "numeric3": "585",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "PY",
+    "alpha3": "PRY",
+    "numeric3": "600",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "QA",
+    "alpha3": "QAT",
+    "numeric3": "634",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "RE",
+    "alpha3": "REU",
+    "numeric3": "638",
+    "postalCodeFormat": "RE"
+  },
+  {
+    "alpha2": "RO",
+    "alpha3": "ROU",
+    "numeric3": "642",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "RS",
+    "alpha3": "SRB",
+    "numeric3": "688",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "RU",
+    "alpha3": "RUS",
+    "numeric3": "643",
+    "postalCodeFormat": "RU"
+  },
+  {
+    "alpha2": "RW",
+    "alpha3": "RWA",
+    "numeric3": "646",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "SA",
+    "alpha3": "SAU",
+    "numeric3": "682",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "SB",
+    "alpha3": "SLB",
+    "numeric3": "090",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "SC",
+    "alpha3": "SYC",
+    "numeric3": "690",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "SD",
+    "alpha3": "SDN",
+    "numeric3": "736",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "SE",
+    "alpha3": "SWE",
+    "numeric3": "752",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "SG",
+    "alpha3": "SGP",
+    "numeric3": "702",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "SH",
+    "alpha3": "SHN",
+    "numeric3": "654",
+    "postalCodeFormat": "SH"
+  },
+  {
+    "alpha2": "SI",
+    "alpha3": "SVN",
+    "numeric3": "705",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "SJ",
+    "alpha3": "SJM",
+    "numeric3": "744",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "SK",
+    "alpha3": "SVK",
+    "numeric3": "703",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "SL",
+    "alpha3": "SLE",
+    "numeric3": "694",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "SM",
+    "alpha3": "SMR",
+    "numeric3": "674",
+    "postalCodeFormat": "SM"
+  },
+  {
+    "alpha2": "SN",
+    "alpha3": "SEN",
+    "numeric3": "686",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "SO",
+    "alpha3": "SOM",
+    "numeric3": "706",
+    "postalCodeFormat": "SO"
+  },
+  {
+    "alpha2": "SR",
+    "alpha3": "SUR",
+    "numeric3": "740",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "SS",
+    "alpha3": "SSD",
+    "numeric3": "728",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "ST",
+    "alpha3": "STP",
+    "numeric3": "678",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "SV",
+    "alpha3": "SLV",
+    "numeric3": "222",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "SY",
+    "alpha3": "SYR",
+    "numeric3": "760",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "SZ",
+    "alpha3": "SWZ",
+    "numeric3": "748",
+    "postalCodeFormat": "SZ"
+  },
+  {
+    "alpha2": "TC",
+    "alpha3": "TCA",
+    "numeric3": "796",
+    "postalCodeFormat": "TC"
+  },
+  {
+    "alpha2": "TD",
+    "alpha3": "TCD",
+    "numeric3": "148",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "TF",
+    "alpha3": "ATF",
+    "numeric3": "260",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "TG",
+    "alpha3": "TGO",
+    "numeric3": "768",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "TH",
+    "alpha3": "THA",
+    "numeric3": "764",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "TJ",
+    "alpha3": "TJK",
+    "numeric3": "762",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "TK",
+    "alpha3": "TKL",
+    "numeric3": "772",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "TL",
+    "alpha3": "TLS",
+    "numeric3": "626",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "TM",
+    "alpha3": "TKM",
+    "numeric3": "795",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "TN",
+    "alpha3": "TUN",
+    "numeric3": "788",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "TO",
+    "alpha3": "TON",
+    "numeric3": "776",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "TR",
+    "alpha3": "TUR",
+    "numeric3": "792",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "TT",
+    "alpha3": "TTO",
+    "numeric3": "780",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "TV",
+    "alpha3": "TUV",
+    "numeric3": "798",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "TW",
+    "alpha3": "TWN",
+    "numeric3": "158",
+    "postalCodeFormat": "TW"
+  },
+  {
+    "alpha2": "TZ",
+    "alpha3": "TZA",
+    "numeric3": "834",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "UA",
+    "alpha3": "UKR",
+    "numeric3": "804",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "UG",
+    "alpha3": "UGA",
+    "numeric3": "800",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "UM",
+    "alpha3": "UMI",
+    "numeric3": "581",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "US",
+    "alpha3": "USA",
+    "numeric3": "840",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "UY",
+    "alpha3": "URY",
+    "numeric3": "858",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "UZ",
+    "alpha3": "UZB",
+    "numeric3": "860",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "VA",
+    "alpha3": "VAT",
+    "numeric3": "336",
+    "postalCodeFormat": "VA"
+  },
+  {
+    "alpha2": "VC",
+    "alpha3": "VCT",
+    "numeric3": "670",
+    "postalCodeFormat": "VC"
+  },
+  {
+    "alpha2": "VE",
+    "alpha3": "VEN",
+    "numeric3": "862",
+    "postalCodeFormat": "VE"
+  },
+  {
+    "alpha2": "VG",
+    "alpha3": "VGB",
+    "numeric3": "092",
+    "postalCodeFormat": "VG"
+  },
+  {
+    "alpha2": "VI",
+    "alpha3": "VIR",
+    "numeric3": "850",
+    "postalCodeFormat": "US"
+  },
+  {
+    "alpha2": "VN",
+    "alpha3": "VNM",
+    "numeric3": "704",
+    "postalCodeFormat": "6Digits"
+  },
+  {
+    "alpha2": "VU",
+    "alpha3": "VUT",
+    "numeric3": "548",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "WF",
+    "alpha3": "WLF",
+    "numeric3": "876",
+    "postalCodeFormat": "WF"
+  },
+  {
+    "alpha2": "WS",
+    "alpha3": "WSM",
+    "numeric3": "882",
+    "postalCodeFormat": "WS"
+  },
+  {
+    "alpha2": "YE",
+    "alpha3": "YEM",
+    "numeric3": "887",
+    "postalCodeFormat": false
+  },
+  {
+    "alpha2": "YT",
+    "alpha3": "MYT",
+    "numeric3": "175",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "ZA",
+    "alpha3": "ZAF",
+    "numeric3": "710",
+    "postalCodeFormat": "4Digits"
+  },
+  {
+    "alpha2": "ZM",
+    "alpha3": "ZMB",
+    "numeric3": "894",
+    "postalCodeFormat": "5Digits"
+  },
+  {
+    "alpha2": "ZW",
+    "alpha3": "ZWE",
+    "numeric3": "716",
+    "postalCodeFormat": false
+  }
+]
