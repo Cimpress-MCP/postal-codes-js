@@ -50,6 +50,12 @@ describe('Postal codes border cases: ', function () {
             expectedResult: 'Missing postal code.'
         },
         {
+            countryCode: 'bw',
+            postalCode: undefined,
+            description: 'should return true when postal code is undefined and the country does not have a postal code standard',
+            expectedResult: true
+        },
+        {
             countryCode: 'gb',
             postalCode: undefined,
             description: 'should return error when postal code is undefined',
