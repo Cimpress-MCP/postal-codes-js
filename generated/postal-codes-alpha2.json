@@ -108,6 +108,12 @@
         "alpha3": "AZE",
         "numeric3": "31"
     },
+    "BQ": {
+        "countryName": "Bonaire, Sint Eustatius and Saba",
+        "alpha2": "BQ",
+        "alpha3": "BES",
+        "numeric3": "535"
+    },
     "BS": {
         "countryName": "Bahamas",
         "alpha2": "BS",
