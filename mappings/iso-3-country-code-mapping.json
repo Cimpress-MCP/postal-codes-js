@@ -79,6 +79,11 @@
     "countryName": "Azerbaijan",
     "isoNumericCountryCode": "31"
   },
+  "BES": {
+    "countryName": "Bonaire, Sint Eustatius and Saba",
+    "iso2CountryCode": "BQ",
+    "isoNumericCountryCode": "535"
+  },
   "BHS": {
     "iso2CountryCode": "BS",
     "countryName": "Bahamas",
