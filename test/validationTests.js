@@ -18,12 +18,14 @@ describe('Postal codes validation: ', function () {
         format.TestData.Valid.map(function (validPostalCode) {
             it(alpha2Code + ' / ' + validPostalCode + ' is valid', function () {
                 expect(postalCodes.validate(alpha2Code, validPostalCode)).to.be.true;
+                expect(postalCodes.validate(alpha2Code, validPostalCode, { forceFormatWeb: true})).to.be.true;
             })
         });
 
         format.TestData.Invalid.map(function (invalidPostalCode) {
             it(alpha2Code + ' / ' + invalidPostalCode + ' is NOT valid', function () {
                 expect(postalCodes.validate(alpha2Code, invalidPostalCode)).to.not.be.true;
+                expect(postalCodes.validate(alpha2Code, invalidPostalCode, { forceFormatWeb: true})).to.not.be.true;
             })
         });
     });
