@@ -11,8 +11,7 @@ if ( isNode ) {
     getFormat = require("./formats-web");
 }
 
-module.exports.validate = function (countryCode, postalCode) {
-
+module.exports.validate = function (countryCode, postalCode, options) {
     if ( !countryCode ) {
         return "Missing country code.";
     }
@@ -41,6 +40,10 @@ module.exports.validate = function (countryCode, postalCode) {
     // If the country/region does not use postal codes
     if ( !countryData.postalCodeFormat ) {
         return true;
+    }
+
+    if (options && options.forceFormatWeb && isNode){
+        getFormat = require("./formats-web")
     }
 
     var format = getFormat(countryData.postalCodeFormat);
