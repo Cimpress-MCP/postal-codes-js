@@ -1,0 +1,15 @@
+{
+  "Description": "AR :  NNNN, ANNNNAAA",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^[0-9]{4}|[A-Z][0-9]{4}[A-Z]{3}$",
+  "TestData": {
+    "Valid": [
+      "9679",
+      "A1234ABC"
+    ],
+    "Invalid": [
+      "AX123",
+      "A1234"
+    ]
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "Description": "BN : [B,K,T,P]ANNNN",
+  "Description": "CR :  [1-7]NNNN , [1-7]NNNN-NNNN",
   "RedundantCharacters": " -",
-  "ValidationRegex": "^[BKTP][A-Z][0-9]{4}$",
+  "ValidationRegex": "^[1-7][0-9]{4}(?:-[0-9]{4})?$",
   "TestData": {
     "Valid": [
-      "BA1234",
-      "KK0987"
+      "12345",
+      "12345-1234"
     ],
     "Invalid": [
       "abc123",

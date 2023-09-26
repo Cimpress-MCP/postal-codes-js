@@ -1,11 +1,11 @@
 {
-  "Description": "SZ : ANNN",
+  "Description": "SZ : [H,M,S,L]NNN",
   "RedundantCharacters": " -",
-  "ValidationRegex": "^[a-zA-Z]{1}[0-9]{3}$",
+  "ValidationRegex": "^[HMSL][0-9]{3}$",
   "TestData": {
     "Valid": [
       "S123",
-      "a789"
+      "M789"
     ],
     "Invalid": [
       "F1234",

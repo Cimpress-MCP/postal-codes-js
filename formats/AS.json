@@ -1,0 +1,15 @@
+{
+  "Description": "AS :  NNNNN-NNNN (range 96799)",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^96799-[0-9]{4}$",
+  "TestData": {
+    "Valid": [
+      "96799-NNNN",
+      "96799-1111"
+    ],
+    "Invalid": [
+      "AX123",
+      "A1234"
+    ]
+  }
+}

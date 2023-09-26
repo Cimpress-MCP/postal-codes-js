@@ -1,0 +1,15 @@
+{
+  "Description": "GL :  NNNN , CC-NNNN(DK-NNNN)",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^([0-9]{4}|DK-[0-9]{4})$",
+  "TestData": {
+    "Valid": [
+      "9841",
+      "DK-8493"
+    ],
+    "Invalid": [
+      "AX123",
+      "A1234"
+    ]
+  }
+}
