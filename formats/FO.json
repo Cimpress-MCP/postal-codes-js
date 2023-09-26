@@ -1,0 +1,15 @@
+{
+  "Description": "FO :  CCNNN(FONNN)",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^FO[0-9]{3}$",
+  "TestData": {
+    "Valid": [
+      "FO411",
+      "FO493"
+    ],
+    "Invalid": [
+      "AX123",
+      "A1234"
+    ]
+  }
+}

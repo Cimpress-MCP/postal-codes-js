@@ -1,0 +1,15 @@
+{
+  "Description": "CZ :  [1-7]NNNN",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^[1-7][0-9]{4}$",
+  "TestData": {
+    "Valid": [
+      "11111",
+      "41111"
+    ],
+    "Invalid": [
+      "AX123",
+      "A1234"
+    ]
+  }
+}

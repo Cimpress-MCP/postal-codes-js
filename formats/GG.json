@@ -1,11 +1,11 @@
 {
-  "Description": "GG",
+  "Description": "GG : GYN NAA,GY10 NAA",
   "RedundantCharacters": " -",
-  "ValidationRegex": "^GY[0-9]{2,3}[A-Za-z]{2}$",
+  "ValidationRegex": "^GY([0-9]|10) [0-9][A-Z]{2}$",
   "TestData": {
     "Valid": [
       "GY1 1AA",
-      "GY111AA"
+      "GY10 1AA"
     ],
     "Invalid": [
       "CW3 9SS",

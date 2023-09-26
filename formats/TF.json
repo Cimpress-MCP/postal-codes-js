@@ -1,0 +1,15 @@
+{
+  "Description": "TF :  984NN",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^984[0-9]{2}$",
+  "TestData": {
+    "Valid": [
+      "98411",
+      "98493"
+    ],
+    "Invalid": [
+      "AX123",
+      "A1234"
+    ]
+  }
+}

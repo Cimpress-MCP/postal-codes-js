@@ -1,16 +1,15 @@
 {
-  "Description": "HN : CCNNNNN",
+  "Description": "HN : AANNNN , NNNNN",
   "RedundantCharacters": " -",
-  "ValidationRegex": "^(HN)?[0-9]{5}$",
+  "ValidationRegex": "^([A-Z]{2}|[0-9])[0-9]{4}$",
   "TestData": {
     "Valid": [
-      "HN12345",
+      "AB1234",
       "12345"
     ],
     "Invalid": [
-      "123456",
       "HN123456",
-      "HN1234"
+      "113233"
     ]
   }
 }

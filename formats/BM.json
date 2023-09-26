@@ -1,0 +1,15 @@
+{
+  "Description": "BM :  AA NN,AA AA",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^[A-Z]{2} (?:[A-Z]{2}|[0-9]{2})$",
+  "TestData": {
+    "Valid": [
+      "AB 12",
+      "AB CD"
+    ],
+    "Invalid": [
+      "AX123",
+      "A1234"
+    ]
+  }
+}

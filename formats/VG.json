@@ -1,17 +1,16 @@
 {
   "Description": "VG : CCNNNN",
   "RedundantCharacters": " -",
-  "ValidationRegex": "^(VG)?[0-9]{4}$",
+  "ValidationRegex": "^VG11[1-6]0$",
   "TestData": {
     "Valid": [
-      "1234",
-      "VG1234",
-	  "VG-1234"
+      "VG1110",
+      "VG1160"
     ],
     "Invalid": [
       "VG123",
       "V1234",
-	  "VG-12345"
+      "VG-12345"
     ]
   }
 }
