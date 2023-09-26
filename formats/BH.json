@@ -1,7 +1,7 @@
 {
   "Description": "BH : NNN, NNNN (101 to 1216)",
   "RedundantCharacters": " -",
-  "ValidationRegex": "^(10[1-9]|[11-9][0-9]|[1-9][0-9]{2}|1[0-1][0-9]{2}|120[0-9]|121[0-6])$",
+  "ValidationRegex": "^(10[1-9]|[1-9]{2}[0-9]|1[0-1][0-9]{2}|120[0-9]|121[0-6])$",
   "TestData": {
     "Valid": [
       "131",
